@@ -13,3 +13,5 @@ I am interested in many things, but here are a few common threads in my work:
 - Rendering systems and communities legible to themselves
 
 My past work includes systems design, software engineering, protocol development, hardware prototyping, graphic design, and 3D modeling & animation.
+
+[(check out my website!)](https://lukvmil.net)
